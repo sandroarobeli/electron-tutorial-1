@@ -1,0 +1,26 @@
+{
+  "name": "electron-tutorial-1",
+  "version": "1.0.0",
+  "description": "First electron tutorial project per official site",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandroarobeli/electron-tutorial-1.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop-app"
+  ],
+  "author": "Alex Arobelidze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandroarobeli/electron-tutorial-1/issues"
+  },
+  "homepage": "https://github.com/sandroarobeli/electron-tutorial-1#readme",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
